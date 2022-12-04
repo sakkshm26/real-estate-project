@@ -1,0 +1,11 @@
+.logo {
+    background: linear-gradient(to right, #0d843f 0%, #824cb0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .navbar {
+    background-color: white !important;
+    transition: background-color ease-in-out 200ms linear;
+  }
+  
